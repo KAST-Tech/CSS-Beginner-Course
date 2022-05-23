@@ -1,0 +1,21 @@
+h1 {
+  background-color: green;
+  color: yellow;
+  display: inline;
+}
+p {
+  background-color: red;
+  color: white;
+  display: inline;
+}
+span {
+  display: block;
+  background-color: blue;
+}
+
+img {
+  height: 200px;
+  width: 400px;
+  display: block;
+  margin: 0 auto;
+}

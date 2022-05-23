@@ -1,0 +1,16 @@
+.bd-info {
+  background-color: black;
+  color: white;
+  border: 5px solid red;
+}
+.bd-info h1 {
+  color: red;
+}
+.bd-info2 {
+  background-color: green;
+  color: yellow;
+  border: 5px dotted blue;
+}
+.bd-info2 h1 {
+  color: white;
+}

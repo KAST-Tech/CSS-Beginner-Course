@@ -1,0 +1,24 @@
+.main-div {
+  width: 100%;
+}
+.child-div-1 {
+  height: 200px;
+  width: 30%;
+  float: left;
+  background-color: red;
+  margin-right: 5px;
+}
+.child-div-2 {
+  height: 200px;
+  width: 30%;
+  float: left;
+  background-color: orange;
+  margin-right: 5px;
+}
+.child-div-3 {
+  height: 200px;
+  width: 30%;
+  float: left;
+  background-color: salmon;
+  margin-right: 5px;
+}

@@ -1,0 +1,14 @@
+.bd-info {
+  background-color: black;
+  color: white;
+}
+.bd-info h1 {
+  color: red;
+}
+.bd-info2 {
+  background-color: green;
+  color: yellow;
+}
+.bd-info2 h1 {
+  color: white;
+}

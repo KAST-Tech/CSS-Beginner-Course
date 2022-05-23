@@ -1,0 +1,16 @@
+h1 {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+.second-heading {
+  color: white;
+}
+.third-heading {
+  color: yellow;
+  background-color: green;
+}
+#last {
+  color: black;
+  background-color: red;
+}
